@@ -20,19 +20,6 @@ def get_emails():
     }
     return emails
 
-
-def twil():
-    account_sid = 'ACba37402ce2c03e71e263dfc597fff401'
-    auth_token = '0a0717fc6a68a7d0467f3579066810b0'
-    client = Client(account_sid, auth_token)
-    message = client.messages.create(
-        from_='+18889071185',
-        body='hello twil',
-        to='+19175896042'
-    )
-    print(message.sid)
-
-
 def confirm(mail_obj, email, time_stamp):
     msg = EmailMessage()
     msg['Subject'] = "Secret Santa Confirm"
