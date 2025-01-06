@@ -2,12 +2,11 @@ __author__ = 'chance'
 
 import datetime
 import threading
-
 import time
-from modules import requestor, sqldb, push, tools, odds
 import csv
 import pandas as pd
 
+from modules import requestor, sqldb, push, tools, odds
 from dictdiffer import diff
 from modules.scoreboard import Scoreboard
 
