@@ -4,8 +4,6 @@ import datetime
 import random
 import smtplib
 import time
-
-from twilio.rest import Client
 from email.message import EmailMessage
 
 
@@ -19,6 +17,7 @@ def get_emails():
         "JL": "jean_luc_leblanc@yahoo.com"
     }
     return emails
+
 
 def confirm(mail_obj, email, time_stamp):
     msg = EmailMessage()
