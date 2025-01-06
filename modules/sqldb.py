@@ -53,7 +53,7 @@ class DB:
         self.msg = ""
         self.push_instance = push.Push(calling_function="SQLDB")
         self.repo_dir = os.getcwd()
-        self.git_repo = Repo(self.repo_dir)
+        # self.git_repo = Repo(self.repo_dir) or None
 
     def __repr__(self):
         return f"{self.db}"

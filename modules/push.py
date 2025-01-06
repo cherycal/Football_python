@@ -2,6 +2,7 @@ __author__ = 'chance'
 
 import inspect
 import logging
+import requests
 import os
 import smtplib
 import sqlite3
@@ -14,7 +15,7 @@ import colorlog
 # import pandas as pd
 # import tweepy
 # from pushbullet import PushBullet
-from pyfcm import FCMNotification
+# from pyfcm import FCMNotification
 from slack_sdk import WebClient
 from slack_sdk.errors import SlackApiError
 
@@ -71,7 +72,7 @@ def get_logger(logfilename='./logs/pushlog.log',
         'CRITICAL': 'black,bg_red',
     }
     colorlog.basicConfig(format=colorlog_format, log_colors=log_colors)
-    #logfilename = './logs/pushlog.log'
+    # logfilename = './logs/pushlog.log'
     logger_instance = logging.getLogger(__name__)
     logger_instance.setLevel(logging.DEBUG)
 
@@ -96,6 +97,22 @@ def print_calling_function():
     #      ", " + str(inspect.stack()[-1].lineno))
     print("#############################")
     return
+
+
+def check_connection() -> bool:
+    try:
+        requests.get("https://www.google.com", timeout=8)
+        return_code = True
+    except requests.ConnectionError as ex:
+        print(f"\nNo internet connection in push:check_connection {ex}")
+        return_code = False
+    except requests.ReadTimeout as ex:
+        print(f"\nRead timeout in push:check_connection {ex}")
+        return_code = False
+    except Exception as ex:
+        print(f"\nUnknown exception in push:check_connection {ex}")
+        return_code = False
+    return return_code
 
 
 def print_stack():
@@ -208,7 +225,8 @@ class Process(object):
               f"where ProcessName = '{self.calling_function}'"
         # self.logger_instance.info(cmd)
         self.execute(cmd)
-        # self.logger_instance.info(f"Successfully set Time Stamp to {timestamp} for {self.calling_function}")
+        # self.logger_instance.info(f"Successfully set Time Stamp
+        # to {timestamp} for {self.calling_function}")
         return
 
     def get_slack_timestamp(self):
@@ -223,9 +241,9 @@ class Push(object):
     MAX_MSG_LENGTH: int
 
     def __init__(self, logger_instance=None, calling_function="General"):
-        api_key = API_KEY
+        # api_key = API_KEY
         reg_id = REG_ID
-        self.push_service = FCMNotification(api_key=api_key)
+        # self.push_service = FCMNotification()
         self.registration_id = reg_id
         self.message_title = "Python test 1"
         self.message_body = "Hello python test 1"
@@ -289,7 +307,7 @@ class Push(object):
     def get_tweet_count(self):
         return self.tweet_count
 
-    def push(self, body, title=None, channel=None):
+    def push(self, body, title=None, channel=None, print_it: bool = False):
         res = 0
         use_channel = slack_alerts_channel
         if channel:
@@ -297,7 +315,10 @@ class Push(object):
         SUPPRESS_FLAG = False
         if title is None:
             title = body[0:20]
-        # To make this work, in Slack, go to channel, channel details, integrations tab, Add App "Alerts Baseball"
+        if print_it:
+            print(f"Push msg {title}\n{body}")
+        # To make this work, in Slack, go to channel, channel details,
+        # integrations tab, Add App "Alerts Baseball"
         if not SUPPRESS_FLAG:
             message = f"{body}\r\n\r\n"
             try:
@@ -313,11 +334,12 @@ class Push(object):
 
             ANDROID = False
             if ANDROID:
-                res = self.push_service.notify_single_device(registration_id=self.registration_id,
-                                                             message_title=title,
-                                                             message_body=body, sound="whisper.mp3",
-                                                             badge="Test2")
-        time.sleep(.5)
+                pass
+                # res = self.push_service.notify_single_device(registration_id=self.registration_id,
+                #                                              message_title=title,
+                #                                              message_body=body, sound="whisper.mp3",
+                #                                              badge="Test2")
+        # time.sleep(.5)
         return res
 
     def set_send_message_flag(self, flag_):
@@ -325,9 +347,11 @@ class Push(object):
         cmd = f"update SMSflag set flag = {flag_} where Function = '{self.calling_function}'"
         self.logger_instance.info(cmd)
         self.execute(cmd)
-        self.logger_instance.info(f"Successfully set_send_message_flag to {flag_} for {self.calling_function}")
+        self.logger_instance.info(f"Successfully set_send_message_flag "
+                                  f"to {flag_} for {self.calling_function}")
         self.push(title="set_send_message_flag",
-                  body=f"Successfully set_send_message_flag to {flag_} for {self.calling_function}")
+                  body=f"Successfully set_send_message_flag to {flag_} "
+                       f"for {self.calling_function}")
         return self.send_message_flag
 
     def get_send_message_flag(self):
@@ -357,7 +381,7 @@ class Push(object):
                 # ordinal_day = ordinal(int(datetime.now().strftime('%#d')))
                 msg = MIMEText(f"{message}, "
                                f"{datetime.now().strftime('%#I:%M')} {AMPM_flag}")
-                ## f" on {datetime.now().strftime('%B')} {ordinal_day} ")
+                # f" on {datetime.now().strftime('%B')} {ordinal_day} ")
                 msg['Subject'] = subject
                 msg['From'] = EMAIL_FROM
                 msg['To'] = EMAIL_TO

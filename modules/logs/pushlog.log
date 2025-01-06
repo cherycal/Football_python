@@ -1,0 +1,720 @@
+
+push.py logger: time=2024-11-30 21:10:03,559 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671492/competitions/401671492/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-11-30 21:10:03,559 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671492/competitions/401671492/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-11-30 21:10:03,559 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671492/competitions/401671492/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-11-30 21:10:11,926 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671779/competitions/401671779/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-11-30 21:10:11,926 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671779/competitions/401671779/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-11-30 21:10:11,926 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671779/competitions/401671779/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-11-30 21:10:19,232 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671798/competitions/401671798/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-11-30 21:10:19,232 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671798/competitions/401671798/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-11-30 21:10:19,232 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671798/competitions/401671798/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-11-30 21:10:29,528 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671806/competitions/401671806/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-11-30 21:10:29,528 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671806/competitions/401671806/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-11-30 21:10:29,528 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671806/competitions/401671806/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-11-30 21:10:39,836 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671620/competitions/401671620/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-11-30 21:10:39,836 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671620/competitions/401671620/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-11-30 21:10:39,836 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671620/competitions/401671620/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-11-30 21:10:52,111 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671627/competitions/401671627/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-11-30 21:10:52,111 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671627/competitions/401671627/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-11-30 21:10:52,111 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671627/competitions/401671627/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-11-30 21:11:02,374 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671649/competitions/401671649/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-11-30 21:11:02,374 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671649/competitions/401671649/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-11-30 21:11:02,374 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671649/competitions/401671649/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-11-30 21:11:14,680 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671703/competitions/401671703/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-11-30 21:11:14,680 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671703/competitions/401671703/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-11-30 21:11:14,680 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671703/competitions/401671703/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:52:53,637 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671799/competitions/401671799/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:52:53,637 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671799/competitions/401671799/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:52:53,637 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671799/competitions/401671799/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:52:55,082 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671800/competitions/401671800/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:52:55,082 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671800/competitions/401671800/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:52:55,082 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671800/competitions/401671800/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:52:56,304 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671876/competitions/401671876/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:52:56,304 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671876/competitions/401671876/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:52:56,304 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671876/competitions/401671876/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:52:58,509 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671829/competitions/401671829/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:52:58,509 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671829/competitions/401671829/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:52:58,509 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671829/competitions/401671829/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:52:59,809 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671832/competitions/401671832/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:52:59,809 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671832/competitions/401671832/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:52:59,809 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671832/competitions/401671832/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:53:01,130 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671835/competitions/401671835/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:53:01,130 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671835/competitions/401671835/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:53:01,130 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671835/competitions/401671835/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:53:03,353 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671842/competitions/401671842/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:53:03,353 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671842/competitions/401671842/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:53:03,353 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671842/competitions/401671842/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:53:04,645 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671846/competitions/401671846/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:53:04,645 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671846/competitions/401671846/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:53:04,645 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671846/competitions/401671846/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:53:05,880 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671495/competitions/401671495/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:53:05,880 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671495/competitions/401671495/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:53:05,880 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671495/competitions/401671495/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:53:07,109 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671634/competitions/401671634/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:53:07,109 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671634/competitions/401671634/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:53:07,109 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671634/competitions/401671634/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:53:09,333 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671653/competitions/401671653/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:53:09,333 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671653/competitions/401671653/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:53:09,333 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671653/competitions/401671653/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:53:11,552 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671725/competitions/401671725/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:53:11,552 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671725/competitions/401671725/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:53:11,552 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671725/competitions/401671725/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:53:13,788 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671738/competitions/401671738/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:53:13,788 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671738/competitions/401671738/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:53:13,788 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671738/competitions/401671738/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:53:15,990 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671765/competitions/401671765/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:53:15,990 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671765/competitions/401671765/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:53:15,990 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671765/competitions/401671765/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:53:18,206 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671877/competitions/401671877/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:53:18,206 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671877/competitions/401671877/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:53:18,206 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671877/competitions/401671877/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:53:20,435 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671698/competitions/401671698/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:53:20,435 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671698/competitions/401671698/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:53:20,435 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671698/competitions/401671698/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:53:32,241 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671826/competitions/401671826/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:53:32,241 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671826/competitions/401671826/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:53:32,241 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671826/competitions/401671826/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:53:35,461 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671827/competitions/401671827/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:53:35,461 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671827/competitions/401671827/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:53:35,461 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671827/competitions/401671827/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:53:37,777 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671828/competitions/401671828/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:53:37,777 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671828/competitions/401671828/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:53:37,777 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671828/competitions/401671828/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:53:41,020 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671830/competitions/401671830/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:53:41,020 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671830/competitions/401671830/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:53:41,020 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671830/competitions/401671830/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:53:44,237 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671831/competitions/401671831/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:53:44,237 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671831/competitions/401671831/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:53:44,237 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671831/competitions/401671831/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:53:46,470 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671833/competitions/401671833/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:53:46,470 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671833/competitions/401671833/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:53:46,470 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671833/competitions/401671833/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:53:48,734 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671834/competitions/401671834/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:53:48,734 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671834/competitions/401671834/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:53:48,734 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671834/competitions/401671834/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:53:51,996 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671836/competitions/401671836/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:53:51,996 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671836/competitions/401671836/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:53:51,996 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671836/competitions/401671836/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:53:54,414 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671837/competitions/401671837/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:53:54,414 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671837/competitions/401671837/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:53:54,414 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671837/competitions/401671837/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:53:56,667 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671838/competitions/401671838/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:53:56,667 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671838/competitions/401671838/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:53:56,667 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671838/competitions/401671838/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:53:59,053 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671839/competitions/401671839/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:53:59,053 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671839/competitions/401671839/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:53:59,053 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671839/competitions/401671839/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:54:01,286 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671840/competitions/401671840/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:54:01,286 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671840/competitions/401671840/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:54:01,286 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671840/competitions/401671840/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:54:04,501 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671841/competitions/401671841/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:54:04,501 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671841/competitions/401671841/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:54:04,501 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671841/competitions/401671841/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:54:07,749 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671843/competitions/401671843/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:54:07,749 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671843/competitions/401671843/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:54:07,749 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671843/competitions/401671843/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:54:11,242 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671844/competitions/401671844/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:54:11,242 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671844/competitions/401671844/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:54:11,242 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671844/competitions/401671844/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:54:13,489 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671845/competitions/401671845/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:54:13,489 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671845/competitions/401671845/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
+
+push.py logger: time=2024-12-31 12:54:13,489 level=INFO calling_function=make_request lineno=123
+msg=requestor: https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401671845/competitions/401671845/odds fn game_odds
+calling process path=C:\Ubuntu\Shared\Fantasy\Football\Football_python\modules\requestor.py
+
+
