@@ -72,13 +72,10 @@ class Odds:
             self.DB.reset()
 
     def run_odds(self):
-        oddsquery = f"select distinct game_id from LeagueSchedule " \
-                                    f"where game_week = (select max(week) from PlayerStats where " \
-                                    f"Year = ( select max(year) from CurrentSeason)) and year = " \
-                                    f"( select max(year) from CurrentSeason)"
-        oddsquery = "select distinct game_id from LeagueSchedule where game_week = 18 and year = 2025"
-        games_query = self.DB.query(oddsquery)
-        print(oddsquery)
+        games_query = self.DB.query(f"""select distinct game_id from LeagueSchedule 
+                                    where game_week = (select current_week from CurrentWeek) and year = 
+                                    ( select max(year) from CurrentSeason)""")
+        pass
         [self.game_odds(row['game_id']) for row in games_query]
 
 

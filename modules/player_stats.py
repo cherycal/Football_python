@@ -2,11 +2,12 @@ __author__ = 'chance'
 
 import datetime
 import threading
+
 import time
+from modules import requestor, sqldb, push, tools, odds
 import csv
 import pandas as pd
 
-from modules import requestor, sqldb, push, tools, odds
 from dictdiffer import diff
 from modules.scoreboard import Scoreboard
 
@@ -42,7 +43,7 @@ class Stats:
     # New year procedure: just update DEFAULT_LEAGUE_ID to any valid league id
     def __init__(self, season: int = int((datetime.datetime.now() - datetime.timedelta(days=30)).strftime('%Y'))):
         self._SEASON: int = season
-        self.DEFAULT_LEAGUE_ID: str = "90960733"
+        self.DEFAULT_LEAGUE_ID: str = "1929067716"
         self.request_instance = requestor.Request()
         self.request_instance.year = self._SEASON
         self.SPORT_ID: str = "ffl"  # mlb: flb, nfl: ffl
@@ -242,7 +243,7 @@ class Stats:
         roster_query: str = (f"select id||'_'||league||'_'||team_id as key, "
                              f"name, id, injuryStatus, lineup_slot, league, team_id, team_abbrev from PlayerRosters "
                              f"where key is not NULL")
-        # print(f"roster_dict: roster_query: {roster_query}")
+        print(f"roster_dict: roster_query: {roster_query}")
         rows = self.DB.query(roster_query)
         # print(f"roster_dict: roster_query: {rows} rows found")
         return {str(row['key']): row for row in rows}
@@ -668,12 +669,10 @@ class Stats:
                 self.push_instance.push(f"ERROR in run_leagues: {ex}")
             self.new_rosters = self.roster_dict().copy()
             self.diff_rosters(self.new_rosters, self.original_rosters)
-            # self.odds.run()
-            # self.table_snapshot(table_name="PlayerDashboard", snap_name="PDSnap")
-            # self.table_snapshot(table_name="FutureDash", snap_name="FDSnap")
-            # self.table_snapshot(table_name="PlayerFullScheduleStats", snap_name="PFSSnap")
             self.odds.run()
-            self.run_snaps()
+            self.table_snapshot(table_name="PlayerDashboard", snap_name="PDSnap")
+            self.table_snapshot(table_name="FutureDash", snap_name="FDSnap")
+            self.table_snapshot(table_name="PlayerFullScheduleStats", snap_name="PFSSnap")
             current_time = int(datetime.datetime.now().strftime("%H%M"))
             print(f"current time is {current_time}")
             if current_time > self.END_OF_DAY:

@@ -9,7 +9,7 @@ import pandas as pd
 from modules import push, tools
 import datetime
 import dataframe_image as dfi
-from git import Repo
+# from git import Repo
 
 
 def print_calling_function(command='command left blank'):

@@ -44,7 +44,7 @@ class Scoreboard:
         self.summary_msg = ""
         self.page_msg = ""
         self.repo_dir = os.getcwd()
-        self.git_repo = Repo(self.repo_dir)
+        # self.git_repo = Repo(self.repo_dir)
 
     @property
     def run_it(self):
@@ -206,11 +206,11 @@ class Scoreboard:
                 away_team_name = self.fantasy_teams[league][str(away_team)]
                 my_loc = ""
                 my_team = ""
-                if home_team_name in ['AXIS', 'FRAN', 'RULE']:
+                if home_team_name in ['AXIS', 'WANT', 'RULE','CHIK','PPL','HYPE']:
                     my_team = home_team_name
                     home_team_name += "**"
                     my_loc = "home"
-                if away_team_name in ['AXIS', 'FRAN', 'RULE']:
+                if away_team_name in ['AXIS', 'WANT', 'RULE','CHIK','PPL','HYPE']:
                     my_team = away_team_name
                     away_team_name += "**"
                     my_loc = "away"

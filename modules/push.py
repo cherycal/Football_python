@@ -32,7 +32,7 @@ ACCESSTOKEN = os.environ.get('ACCESSTOKEN')
 ACCESSTOKENSECRET = os.environ.get('ACCESSTOKENSECRET')
 SE = f"{os.environ.get('GMA')}@gmail.com"
 SP = os.environ.get('GMPY')
-SN = f"{str(int(os.environ.get('PN')) - 4)}@vtext.com"
+# SN = f"{str(int(os.environ.get('PN')) - 4)}@vtext.com"
 
 # PUSHBUCKET
 PBTOKEN = os.environ.get('PBTOKEN')
@@ -44,7 +44,10 @@ SLACK_URL_SUFFIX = os.environ.get('slack_url_suffix')
 REG_ID = os.environ.get('reg_id')
 API_KEY = os.environ.get('api_key')
 
+########################################################################################################################
 
+CWD = os.getcwd()
+pass
 ########################################################################################################################
 
 def ordinal(n):
@@ -54,7 +57,7 @@ def ordinal(n):
         return str(n) + {1: 'st', 2: 'nd', 3: 'rd'}.get(n % 10, "th")
 
 
-def get_logger(logfilename='./logs/pushlog.log',
+def get_logger(logfilename=None,
                logformat='\npush.py logger: time=%(asctime)s level=%(levelname)s '
                          'calling_function=%(funcName)s lineno=%(lineno)d\nmsg=%(message)s\n'
                          'calling process path=%(pathname)s\n\n'):
@@ -72,7 +75,7 @@ def get_logger(logfilename='./logs/pushlog.log',
         'CRITICAL': 'black,bg_red',
     }
     colorlog.basicConfig(format=colorlog_format, log_colors=log_colors)
-    # logfilename = './logs/pushlog.log'
+    logfilename = f'{CWD}/logs/pushlog.log'
     logger_instance = logging.getLogger(__name__)
     logger_instance.setLevel(logging.DEBUG)
 
@@ -153,7 +156,7 @@ def push_attachment(attachment, channel="None", body="None"):
 class Process(object):
 
     def __init__(self, logger_instance=None, calling_function="General"):
-        self.db = f'C:\\Ubuntu\\Shared\\data\\Process.db'
+        self.db = f'C:\\Users\\chanc\\prog\\data\\Process.db'
         self.conn = sqlite3.connect(self.db, timeout=15)
         self.cursor = self.conn.cursor()
         self.name = "process_instance"
@@ -268,10 +271,10 @@ class Push(object):
         self.slack_url = f"https://hooks.slack.com/services/{SLACK_URL_SUFFIX}"
         self.EMAIL_FROM = f"{os.environ.get('GMA')}@gmail.com"
         self.EMAIL_PASSWORD = os.environ.get('GMPY')
-        self.EMAIL_TO = f"{str(int(os.environ.get('PN')) - 4)}@vtext.com"
-        self.DEFAULT_SMS = f"{str(int(os.environ.get('PN')) - 4)}@vtext.com"
+        # self.EMAIL_TO = f"{str(int(os.environ.get('PN')) - 4)}@vtext.com"
+        # self.DEFAULT_SMS = f"{str(int(os.environ.get('PN')) - 4)}@vtext.com"
         self.send_message_flag = False
-        self.db = f'C:\\Ubuntu\\Shared\\data\\Push.db'
+        self.db = f'C:\\Users\\chanc\\prog\\data\\Push.db'
         self.conn = sqlite3.connect(self.db, timeout=15)
         self.cursor = self.conn.cursor()
         self.slack_channel_types = {
